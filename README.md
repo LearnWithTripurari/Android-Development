@@ -17,7 +17,7 @@
 
 ### Step 3 - Gradle Setup
 
-* Download and Install the Gradle [https://gradle.org/releases/]
+* Download the Gradle [https://gradle.org/releases/]
 * Unzip the gradle.zip folder
 * Placed the Unzipped gradle folder on your desired location, Example "C:\gradle-7.4.1"
 * Open android studio > file > settings > Build, execution, deployment > build tools > gradle
